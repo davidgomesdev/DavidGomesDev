@@ -3,7 +3,7 @@
 My love for programming started at the age of 14, when I rolled on an adventure with a [friend](https://github.com/limwa) to code plugins for Minecraft in Java. (I actually call him my "programming twin brother")
 
 💻 3 years of experience with multiple technologies <br>
-🔭 Learning is my top priority, no improvement no fun 😉 <br>
+🐱‍🏍 Learning is a top priority for me <br>
 👌 Getting the work done properly is what I strive for <br>
 🔒 Solid knowledge of InfoSec and Networking <br>
 
