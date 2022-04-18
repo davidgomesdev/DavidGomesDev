@@ -4,7 +4,7 @@ My love for programming started at the age of 14, when I rolled on an adventure 
 
 💻 3 years of experience with multiple technologies <br>
 🐱‍🏍 Learning is a top priority for me <br>
-👌 Getting the work done properly is what I strive for <br>
+👌 Focused on doing things properly <br>
 🔒 Solid knowledge of InfoSec and Networking <br>
 
 ### 🔧 Tools and Technologies
