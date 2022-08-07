@@ -1,6 +1,6 @@
 ### Hi! I'm David 👋
 
-My love for programming started at the age of 14, when I rolled on an adventure with a [friend](https://github.com/limwa) to code plugins for Minecraft in Java. (I actually call him my "twin brother of programming")
+My love for programming started at the age of 14, when I rolled on an adventure with a [friend](https://github.com/limwa) to code plugins for Minecraft in Java.
 
 💻 3 years of experience with multiple technologies <br>
 🐱‍🏍 Learning is a top priority for me <br>
