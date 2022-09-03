@@ -2,7 +2,7 @@
 
 My love for programming started at the age of 14 when I rolled on an adventure with a [friend](https://github.com/limwa) to code plugins for Minecraft in Java.
 
-I'm now a developer that strives for clean code with the suited language/framework for the task at hand.
+I'm now a developer that strives for clean code with the suited tools for the task at hand.
 
 💻 3 years of experience with multiple technologies <br>
 🚀 Learning is a top priority for me <br>
