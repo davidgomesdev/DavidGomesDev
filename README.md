@@ -5,7 +5,7 @@ My love for programming started at the age of 14 when I rolled on an adventure w
 I'm now a developer that strives for clean code with the suited language/framework for the task at hand.
 
 💻 3 years of experience with multiple technologies <br>
-🐱‍🏍 Learning is a top priority for me <br>
+🚀 Learning is a top priority for me <br>
 👌 Focused on doing things properly <br>
 🔒 Solid knowledge of InfoSec and Networking <br>
 
