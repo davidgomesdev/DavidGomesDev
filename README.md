@@ -21,13 +21,3 @@ I'm now a developer that strives for clean code with the suited tools for the ta
 ![Framework: Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-965dbb?style=flat&logo=Linux&logoColor=white)
-
-### 📈️ Github Stats
-
-<div style="display: flex; flex-direction: row;">
-  
-  <img alt="David Gomes's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=LegendL3n&show_icons=true&line_height=27&theme=city_lights" />
-  
-  <img alt="David Gomes's Top Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegendL3n&langs_count=3&theme=city_lights" />
-  
-</div>
