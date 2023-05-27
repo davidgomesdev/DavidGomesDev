@@ -10,7 +10,7 @@ I'm now a developer that strives for clean code with the suited tools for the ta
 ✍️ Documentating along the way <br>
 🔒 Solid knowledge of InfoSec and Networking <br>
 
-### 🔧 Tools and Technologies
+### 🔧 Areas of expertise
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=Kotlin&color=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white&color=orange)
