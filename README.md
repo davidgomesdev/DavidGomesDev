@@ -5,8 +5,9 @@ My love for programming started at the age of 14 when I rolled on an adventure w
 I'm now a developer that strives for clean code with the suited tools for the task at hand.
 
 💻 4 years of experience with multiple technologies <br>
-🚀 Learning is always a top priority for me <br>
+🚀 Always keeping myself up-to-date <br>
 👌 Focused on doing things properly <br>
+✍️ Documentating along the way <br>
 🔒 Solid knowledge of InfoSec and Networking <br>
 
 ### 🔧 Tools and Technologies
@@ -20,4 +21,7 @@ I'm now a developer that strives for clean code with the suited tools for the ta
 ![Framework: Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=Spring&logoColor=white)
 ![Framework: Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/Linux-965dbb?style=flat&logo=Linux&logoColor=white)
+![Scripting](https://img.shields.io/badge/Scripting-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
