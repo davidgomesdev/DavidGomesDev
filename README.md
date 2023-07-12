@@ -7,7 +7,7 @@ I'm now a developer that strives for clean code with the suited tools for the ta
 💻 4 years of experience with multiple technologies <br>
 🚀 Always keeping myself up-to-date <br>
 👌 Focused on doing things properly <br>
-✍️ Documentating along the way <br>
+✍️ Documenting along the way <br>
 🔒 Solid knowledge of InfoSec and Networking <br>
 
 ### 🔧 Areas of expertise
