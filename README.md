@@ -23,6 +23,8 @@ I'm now a developer that strives for clean code with the suited tools for the ta
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=Terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-965dbb?style=flat&logo=Linux&logoColor=white)
 ![Scripting](https://img.shields.io/badge/Scripting-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
