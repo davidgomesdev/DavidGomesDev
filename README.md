@@ -4,7 +4,7 @@ My love for programming started at the age of 14 when I rolled on an adventure w
 
 I'm now a developer that strives for clean code with the suited tools for the task at hand.
 
-💻 4 years of experience with multiple technologies <br>
+💻 5 years of experience with multiple technologies <br>
 🚀 Always keeping myself up-to-date <br>
 👌 Focused on doing things properly <br>
 ✍️ Documenting along the way <br>
