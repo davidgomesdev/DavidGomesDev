@@ -8,7 +8,7 @@ I'm now a developer that strives for clean code with the suited tools for the ta
 🚀 Always keeping myself up-to-date <br>
 👌 Focused on doing things properly <br>
 ✍️ Documenting along the way <br>
-🔒 Solid knowledge of InfoSec and Networking <br>
+🔒 Solid knowledge of InfoSec, Scripting and Networking <br>
 
 ### 🔧 Areas of expertise
 
