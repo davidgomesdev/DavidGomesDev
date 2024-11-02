@@ -31,7 +31,7 @@ I'm now a developer that strives for clean code with the suited tools for the ta
 
 ☁️ [Azure Developer (AZ-204)](https://learn.microsoft.com/en-us/users/davidgomes-6729/credentials/c5410952b78c3fe8?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
-☸️ [Kubernetes Developer (CKAD](https://www.credly.com/badges/dc25b7f5-37dc-433a-bf63-c2a25ccdda8e/linked_in_profile)
+☸️ [Kubernetes Developer (CKAD)](https://www.credly.com/badges/dc25b7f5-37dc-433a-bf63-c2a25ccdda8e/linked_in_profile)
 
 🗣 [Public Speaking](https://www.linkedin.com/posts/davidgomesdev_certificado-curso-de-falar-em-público-presencial-activity-7165836089843294209-fnBm/)
 
