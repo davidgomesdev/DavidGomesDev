@@ -31,7 +31,7 @@ I'm now a developer that strives for clean code with the suited tools for the ta
 
 ☸️ [Kubernetes Developer (CKAD)](https://www.credly.com/badges/dc25b7f5-37dc-433a-bf63-c2a25ccdda8e/linked_in_profile)
 
-Kafka [Confluent Certification for Apache Kafka](https://certificates.confluent.io/ca3f455e-7013-4206-ad84-669e7ebd2113#acc.teH3P2DX)
+<img src="images/apache_kafka.png" width="12"> [Confluent Certification for Apache Kafka](https://certificates.confluent.io/ca3f455e-7013-4206-ad84-669e7ebd2113#acc.teH3P2DX)
 
 🗣 [Public Speaking](https://www.linkedin.com/posts/davidgomesdev_certificado-curso-de-falar-em-público-presencial-activity-7165836089843294209-fnBm/)
 
